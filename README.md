@@ -1,4 +1,4 @@
-## Oi! Sou o Vinicius Felipe e estudo análise e desenvolvimento de sistemas na Unicesumar de maringá. Estudo programação e pretendo trabalhar na área de segurança.
+## 👋🏽 Hey there! I'm Vinicius, a System analysis and development student from Brazil. Im currently learning PHP and Linux based operating systems and trying my best to work with CyberSecurity.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFelipeAC)](https://github.com/anuraghazra/github-readme-stats)
 ## Linguagens e habilidades
 <div style="display: inline_block"><br>
