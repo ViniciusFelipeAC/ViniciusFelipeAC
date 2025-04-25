@@ -15,4 +15,4 @@
   <a href="https://www.linkedin.com/in/viniciusfadecastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div align="center">
-  <img height="150" src="https://tenor.com/pt-BR/view/dark-dark-grunge-aesthetic-aesthetic-dark-grunge-gif-23541860"  />
+  <img height="150" src="https://media1.tenor.com/m/fMCEMFywVR8AAAAC/dark-dark-grunge.gif"  />
