@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/01b9ca95-dbaa-4e8b-b8dd-4e147b1aeb01)## 👋🏽 Hey there! I'm Vinicius, a System analysis and development student from Brazil. Im currently learning PHP and Linux based operating systems and trying my best to work with CyberSecurity.
+## 👋🏽 Hey there! I'm Vinicius, a System analysis and development student from Brazil. Im currently learning PHP and Linux based operating systems and trying my best to work with CyberSecurity.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFelipeAC)](https://github.com/anuraghazra/github-readme-stats)
 ## Linguagens e habilidades
 <div style="display: inline_block"><br>
@@ -15,4 +15,4 @@
   <a href="https://www.linkedin.com/in/viniciusfadecastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 <div align="left">
-  <img height="200" src="https://media1.tenor.com/m/tfQqIFEcsMkAAAAC/cyberpunk-2077-cyberpunk.gif"  />
+  <img height="300" src="https://media1.tenor.com/m/tfQqIFEcsMkAAAAC/cyberpunk-2077-cyberpunk.gif"  />
