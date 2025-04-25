@@ -14,5 +14,5 @@
   <a href = "mailto:ViniciusFAdeCastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciusfadecastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<div align="center">
+<div align="left">
   <img height="150" src="https://media1.tenor.com/m/fMCEMFywVR8AAAAC/dark-dark-grunge.gif"  />
