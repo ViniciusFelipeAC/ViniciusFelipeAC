@@ -1,4 +1,4 @@
-## 👋🏽 Hey there! I'm Vinicius, a System analysis and development student from Brazil. Im currently learning Dart, Flutter and Linux based operating systems and trying my best to work with mobile development.
+## 👋🏽 Hey there! I'm Vinicius, a System analysis and development student from Brazil. Im currently learning Cybersecurity and Linux based operating systems and trying my best to work with pentesting.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFelipeAC)](https://github.com/anuraghazra/github-readme-stats)
 ## Linguagens e habilidades
 <div style="display: inline_block"><br>
